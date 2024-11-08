@@ -77,11 +77,13 @@ def compare():
         print(“Enter a valid number.”)
 ```
 ### v) for
+```
 def iterate():
     string=input("Enter a string: ") for
     i in string:
        print(ord(i),end=" ")
-iterate() 
+iterate()
+```
 ### Output:
 ### do..while
  ![image](https://github.com/user-attachments/assets/c2229a2c-12ab-4814-8be4-1d63f1dcafbb)

@@ -91,10 +91,6 @@ iterate()
  ![image](https://github.com/user-attachments/assets/565fdd1f-1246-4081-9273-f6425145de1b)
 ### switch
  ![image](https://github.com/user-attachments/assets/5c183abb-3039-4652-b1b6-57b4fa8fffa9)
- ```
-
-
-```
 ### if..else
  ![image](https://github.com/user-attachments/assets/fc5e32c5-5a39-45cc-acbb-895372422a59)
 ### for

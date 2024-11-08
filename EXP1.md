@@ -45,7 +45,7 @@ if start.isnumeric() and end.isnumeric():
 else:
    print("Enter a valid positive number.")
 ```
-### Switch
+### iii)Switch
 ```
 def switch():
     switcher={
@@ -59,7 +59,7 @@ except ValueError:
    print("Enter a valid number.")
 switch()
 ```
-###  if..else
+###  iv)if..else
 ```
 def compare():
   a=input("Enter a value for A: ")

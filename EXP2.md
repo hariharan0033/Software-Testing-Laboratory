@@ -76,7 +76,8 @@ else:
     print("Enter valid numeric values for matrix dimensions.")
 ```
 ### Output:
-![image](https://github.com/user-attachments/assets/d7a8ad96-d150-4a86-a9eb-cf1957f08dbc)
+![image](https://github.com/user-attachments/assets/f9190eb5-73e5-4c2c-b562-edc63fe3cb33)
+
 
 
 

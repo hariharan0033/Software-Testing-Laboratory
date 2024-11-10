@@ -61,7 +61,8 @@ except:
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/e784bd03-2d42-435e-8832-cb53721c498e)
+![image](https://github.com/user-attachments/assets/8fa5d304-35a2-4a0a-a9c2-c902c026b35e)
+
 
 ### Result:
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.

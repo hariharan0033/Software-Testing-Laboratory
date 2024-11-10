@@ -43,7 +43,8 @@ else:
     print("Enter a Positive Number")
 ```
 ### Output:
- ![image](https://github.com/user-attachments/assets/3ef30f41-b51b-47d8-9bee-fb4cbfffdd98)
+![image](https://github.com/user-attachments/assets/e6d38441-33da-40b6-9da4-6cd07620160a)
+
  
 
 

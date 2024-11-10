@@ -13,6 +13,8 @@ Cases
 3. Write simple program for each construct.
 4.  the program with possible test cases.
 5. Stop the program.
+
+   
 ### Program:
 ### i)do..while
 ```
@@ -84,18 +86,23 @@ def iterate():
        print(ord(i),end=" ")
 iterate()
 ```
+
 ### Output:
 ### do..while
 ![image](https://github.com/user-attachments/assets/f219e2a5-3b00-4b8f-a936-44118895b919)
 
+
 ### while..do
  ![image](https://github.com/user-attachments/assets/01d66c39-af9d-467f-9be8-c863f9495608)
+ 
 
 ### switch
 ![image](https://github.com/user-attachments/assets/09f377d0-ebaf-4c32-a3ed-7dcda97862a8)
 
+
 ### if..else
  ![image](https://github.com/user-attachments/assets/e71c4e5f-adf2-484a-bfc6-9730b4e63162)
+
 
 ### for
 ![image](https://github.com/user-attachments/assets/e839375f-b741-4407-a746-80c4dfffcb46)

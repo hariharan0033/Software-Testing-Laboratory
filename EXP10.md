@@ -42,7 +42,8 @@ def test_fib_6_equals_8():
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/63e992f1-1f31-48e7-beb5-b865af3cc912)
+![image](https://github.com/user-attachments/assets/030f2be4-e9c4-48ae-9745-058b3ed35ed5)
+
 
 ### Result:
 Thus, the python program for Fibonacci Series is tested using pytest and executed and output is verified successfully.

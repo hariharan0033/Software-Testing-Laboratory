@@ -86,15 +86,20 @@ iterate()
 ```
 ### Output:
 ### do..while
- ![image](https://github.com/user-attachments/assets/c2229a2c-12ab-4814-8be4-1d63f1dcafbb)
+![image](https://github.com/user-attachments/assets/f219e2a5-3b00-4b8f-a936-44118895b919)
+
 ### while..do
- ![image](https://github.com/user-attachments/assets/565fdd1f-1246-4081-9273-f6425145de1b)
+ ![image](https://github.com/user-attachments/assets/01d66c39-af9d-467f-9be8-c863f9495608)
+
 ### switch
- ![image](https://github.com/user-attachments/assets/5c183abb-3039-4652-b1b6-57b4fa8fffa9)
+![image](https://github.com/user-attachments/assets/09f377d0-ebaf-4c32-a3ed-7dcda97862a8)
+
 ### if..else
- ![image](https://github.com/user-attachments/assets/fc5e32c5-5a39-45cc-acbb-895372422a59)
+ ![image](https://github.com/user-attachments/assets/e71c4e5f-adf2-484a-bfc6-9730b4e63162)
+
 ### for
- ![image](https://github.com/user-attachments/assets/7bb0f593-68ae-4641-abcb-6d5284a513c1)
+![image](https://github.com/user-attachments/assets/e839375f-b741-4407-a746-80c4dfffcb46)
+
  
 
 

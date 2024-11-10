@@ -50,7 +50,8 @@ else:
 
 
 ### Output:
- ![image](https://github.com/user-attachments/assets/6e5bc2a4-8037-413b-a40b-b88da4e1e5d1)
+ ![image](https://github.com/user-attachments/assets/6786285a-cd48-4333-aa7a-a51e9d50b59a)
+
 
 ### Result:
 Thus, a program to check palindrome has been written and test cases have been written and verified successfully.
